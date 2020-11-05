@@ -1,2 +1,2 @@
 # Manomotion-XRITK
-Manomotion with XR Interaction toolkit
+Manomotion - XR Interaction toolkit
